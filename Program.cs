@@ -3,7 +3,7 @@
 namespace StringCalculator
 {
     /// <summary>
-    /// 
+    /// In this code you enter aline of text which counts digits,spaces,blanks,special characters
     /// </summary>
     class Program
     {
